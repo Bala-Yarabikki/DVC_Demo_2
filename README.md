@@ -51,8 +51,8 @@ setup(
     description="A small package for dvc ml pipeline demo",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/c17hawke/dvc-ML-demo-AIOps",
-    author_email="sunny.c17hawke@gmail.com",
+    url="https://github.com/Bala-Yarabikki/DVC_Demo_2",
+    author_email="balachowdary777@gmail.com",
     packages=["src"],
     python_requires=">=3.7",
     install_requires=[
